@@ -1,0 +1,104 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: white;
+    padding: 15px;
+}
+
+nav a {
+    color: gray;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: lightblue;
+}
+.header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.header h1 {
+    font-size: 40px;
+    font-family: 'Times New Roman', serif;
+}
+
+.header p {
+    font-size: 18px;
+}
+
+.content-section {
+    background-color: white;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.content-section h2 {
+    color: navy;
+    font-family: 'Times New Roman', serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+.image-section {
+    text-align: center;
+}
+
+.image-section img {
+    display: inline-block;
+    width: 40%;
+    margin: 10px;
+    vertical-align: top;
+}
+.caption {
+    text-align: center;
+    font-style: italic;
+    color: gray;
+    font-size: large;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+ul {
+    color: black;
+}
+
+ol li {
+    margin-bottom: 15px;
+}
+
+strong {
+    color: navy;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    color: gray;
+    font-style: italic;
+}
+a {
+    color: gray;
+}
+
+a:hover {
+    color: lightblue;
+}
